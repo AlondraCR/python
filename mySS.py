@@ -1,4 +1,4 @@
-#Holii
+#Practica 2: Sumas
 
 x = int(input("Escribe un numero: "))
 y = int(input("Escribe otro numero: "))
