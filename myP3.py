@@ -1,3 +1,5 @@
+#Practica 3: Leer y escribir en archivos .txt
+
 #escribir
 #f = open('myFile1.txt','w')
 #f.write("hello")
